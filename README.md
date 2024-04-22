@@ -1,7 +1,7 @@
 # Pig_DiceGame
 선택과제2 - Pig Dice Game
 
-#Upstage_CLI_Project
+# Upstage_CLI_Project
 > Upstage x fastcampus AI LAB git_CLI project : Pig_Dice_game
 
 ---
